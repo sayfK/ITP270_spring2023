@@ -6,3 +6,6 @@
 
 - git checkout HEAD <filename>
 
+#How to check the git status?
+
+- git show
